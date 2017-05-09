@@ -29,3 +29,15 @@ Synthetic indigo, developed in 1880, largely replaced the natural crop by 1913; 
 
 — [1]
 
+
+## Egyptian blue (irtyu)
+__approx. 2,200 B.C.__, __copper pigment__, __inorganic__
+
+<img src="http://www.colorhexa.com/4197ca.png" title="4197ca" width="33.33%" height="40"><img src="http://www.colorhexa.com/308bc7.png" title="308bc7" width="33.33%" height="40"><img src="http://www.colorhexa.com/1034a6.png" title="1034a6" width="33.33%" height="40">
+
+Egyptian blue—the first color to be synthetically produced—was invented in Ancient Egypt around 2,200 B.C., around the same time the Great Pyramids were built. To create the hue, Egyptians combined limestone and sand with a copper-containing mineral (such as azurite or malachite) and heated the solution to between 1470 and 1650 degrees fahrenheit. The end result was an opaque blue glass, which could be crushed up, combined with egg whites, glues, or gums, and made into a long-lasting paint or ceramic glaze. The process was easy to get wrong, and any mistake would result in a “glassy, green mess,” explains Victoria Finlay in _The Brilliant History of Color in Art_ (2014). While Egyptian blue remained popular throughout the Roman Empire, its complex method of production was forgotten as new blues came to market.
+
+In 2006, nearly two millennia later, conservation scientist Giovanni Verri made an accidental find that brought Egyptian blue back to the fore. Viewing a 2,500-year-old Greek marble basin under fluorescent lights, Verri was surprised to find that the vessel’s blue pigments began to glow—a signal that Egyptian blue emits infrared radiation. This rare property enables scientists to find traces of the color in ancient artifacts, even after the pigment has been washed away or otherwise made invisible to the naked eye. Scientists outside of the field of conservation have also taken interest in Egyptian blue, adopting the pigment for biomedical analyses and laser development.
+
+— [1]
+
