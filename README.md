@@ -53,3 +53,30 @@ In 1993, it was discovered to occur naturally as the rare mineral effenbergerite
 
 — [2]
 
+
+## Ultramarine (~ "True Blue", literally "beyond the sea")
+__6th century__, __aluminum pigment__, __inorganic__
+
+<img src="http://www.colorhexa.com/5681bf.png" title="5681bf natural" width="50%" height="40"><img src="http://www.colorhexa.com/3f00ff.png" title="3f00ff synthetic" width="50%" height="40">
+
+The name derives from Middle Latin _ultramarinus_, literally "beyond the sea" because it was imported from Asia by sea. Current terminology for ultramarine includes natural ultramarine (English), _outremer lapis_ (French), _Ultramarin echt_ (German), _oltremare genuino_ (Italian), and _ultramarino verdadero_ (Spanish). The first recorded use of ultramarine as a color name in English was in 1598.
+
+The first noted use of _lapis lazuli_ as a pigment can be seen in the 6th and 7th-century AD cave paintings in Afghanistani Zoroastrian and Buddhist temples, near the most famous source of the mineral. _Lapis lazuli_ has also been identified in Chinese paintings from the 10th and 11th centuries, in Indian mural paintings from the 11th, 12th, and 17th centuries, and on Anglo-Saxon and Norman illuminated manuscripts from c.1100.
+
+— [2]
+
+Sometimes called “true blue,” ultramarine is made from the semiprecious gemstone lapis lazuli, which for centuries could only be found in a single mountain range in Afghanistan. Egyptian traders began importing the stone as early as 6,000 years ago, using it to adorn jewelry and headdresses. Yet they never figured out how to make a vibrant pigment from it. Riddled with minerals such as calcite, pyrite, augite, and mica, lapis loses its potency when it is ground up, turning from a bright blue to a dull gray.
+
+Lapis first appeared as a “true blue” pigment in the 6th century, gracing Buddhist frescoes in Bamiyan, Afghanistan. Around 700 years later, the pigment traveled to Venice and soon became the most sought-after color in medieval Europe. For centuries, the cost of lapis rivaled the price of gold. Given its hefty price tag, the color was reserved for only the most important figures (namely, the Virgin Mary) and the most lucrative commissions (namely, the church).
+
+Legend has it that Michelangelo left his painting _The Entombment_ (1500–01) unfinished because he could not generate the funds to buy ultramarine blue. Raphael used the pigment scarcely, applying it above base layers of azurite when depicting the Virgin Mary’s blue robe. The Baroque master Johannes Vermeer, on the other hand, bought the color in spades, so much so that his indulgence pushed his family into debt.
+
+Given the high demand, in 1824, France’s Societé d’Encouragement offered a reward of 6,000 francs to anyone who could invent a synthetic version of ultramarine. A French chemist and a German professor both found the solution within weeks of one another, leaving the competition with contested results. Unsurprisingly, the French committee gave the award to the Frenchman and named the new pigment “French Ultramarine.”
+
+— [1]
+
+### Famous Artworks
+
+- Blessed Virgin Mary, by Sassoferrato, c. 1654
+- Girl with a Pearl Earring, by Johannes Vermeer, c. 1665
+
