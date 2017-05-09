@@ -41,3 +41,15 @@ In 2006, nearly two millennia later, conservation scientist Giovanni Verri made 
 
 — [1]
 
+
+## Han blue
+__approx. 1045–771 B.C.__, __copper pigment__, __inorganic__
+
+<img src="http://www.colorhexa.com/446ccf.png" title="446ccf" width="100%" height="40">
+
+Han purple and Han blue (also called Chinese purple and Chinese blue) are synthetic barium copper silicate pigments developed in China and used in ancient and imperial China from the Western Zhou period (1045–771 BC) until the end of the Han dynasty (circa 220 AD).
+
+In 1993, it was discovered to occur naturally as the rare mineral effenbergerite.
+
+— [2]
+
