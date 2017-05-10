@@ -153,3 +153,13 @@ While Klein is perhaps the most famous painter to riff on ultramarine, one of hi
 — [1]
 
 
+## YInMn
+__2009__, __manganese pigment__, __inorganic__
+
+<img src="http://www.colorhexa.com/2e5090.png" title="2e5090" width="100%" height="40">
+
+Prussian blue is not the only blue pigment to be discovered by accident. In 2009, the chemist Mas Subramanian and his students at Oregon State University were investigating new materials that could be used for manufacturing electronics. A graduate student noticed that one of their samples turned a bright blue color when heated, to which Subramanian responded, “Luck favors the alert mind,” a quote from Louis Pasteur. They named the color YInMn blue, after its chemical makeup of yttrium, indium, and manganese, and they released the pigment for commercial use in June 2016. Durable, safe, and easy to produce, the color also has a cooling property, so it may be used in environmentally friendly roof construction in the future. Of course, Subramanian sent samples of the pigment to artists, too.
+
+— [1]
+
+
