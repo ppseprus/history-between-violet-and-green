@@ -141,3 +141,15 @@ Anna Atkins created a series of cyanotype limited-edition books that documented 
 — [2]
 
 
+## International Klein Blue
+__1960__
+
+<img src="http://www.colorhexa.com/002ea7.png" title="002ea7" width="100%" height="40">
+
+In the summer of 1947, French artist Yves Klein was just 19 years old, sitting on the beach with his friends Claude Pascal (who later became a poet) and Armand Fernandez (who later became an artist). As the story goes, the three of them began to brainstorm how they would divide up the world: Pascal would take the air, Fernandez would have the land, and Klein wanted the sky. Klein’s pursuit of the sky’s expansiveness would come to define his artistic career, and, in 1957, he began to work almost exclusively with the color blue. “Blue has no dimensions. It is beyond dimensions,” he once said. The artist began by spraypainting entire canvases, everyday objects, and casts of ancient sculptures with French Ultramarine, which had been invented about a century before. Working with a paint dealer in Paris, Klein created a matte version of ultramarine and patented his new method of pigment production under the name International Klein Blue, or IKB, in 1960.
+
+While Klein is perhaps the most famous painter to riff on ultramarine, one of history’s most expensive pigments, he is far from the only one. Inspired by Klein, the filmmaker and author Derek Jarman created the moving picture _Blue_ (1993), which projected the same shade of ultramarine blue for 75 minutes, punctuated by a haunting soundtrack of ticking clocks, choral singing, and poetry and storytelling recited by actors and Jarman himself. More recently, in his installation _Seizure_ (2008/2013), the British artist Roger Hiorns covered an abandoned London apartment with bright blue crystals, while the German artist Katharina Fritsch presented _Hahn/Cock_ (2013), a giant sculpture of a rooster painted bright ultramarine in Trafalgar Square.
+
+— [1]
+
+
