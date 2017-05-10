@@ -93,3 +93,27 @@ The first recorded use of Persian blue as a color name in English was in 1669.
 — [2]
 
 
+## Prussian blue
+__1724__, __iron pigment__, __inorganic__
+
+<img src="http://www.colorhexa.com/003153.png" title="003153" width="100%" height="40">
+
+One year before Newton published his first report on the seven colors of the rainbow in _Opticks_ (1704), a new blue was invented in Berlin, Germany. The dye-maker Johann Jacob Diesbach was working on a cochineal red pigment when he disregarded the fact that one of his materials, potash, had come in contact with animal blood. He figured that red mixed with red would simply create more red. Surprisingly, this was not the case, and his red dye emerged as a potent blue. The animal blood had spurred an unlikely chemical reaction, which created the compound iron ferrocyanide, now known in German as the color _Berliner Blau_ or, in English, as Prussian blue.
+
+French Rococo painter Jean-Antoine Watteau, Japanese woodblock printmaker Katsushika Hokusai, and the Spanish master Pablo Picasso in his Blue Period all used the color extensively. However, the success of Prussian blue goes beyond its role as a pigment. In 1842, the English astronomer Sir John Herschel discovered that Prussian blue had a unique sensitivity to light, which could be manipulated to create copies of a single drawing. Herschel’s method of image reproduction proved invaluable to architects, who for the first time could easily create multiple versions of their building plans, aptly named “blueprints” after their Prussian blue coloring. In contemporary medicine, Prussian blue has a very different purpose: It’s delivered in pill form as an antidote to heavy-metal poisoning.
+
+— [1]
+
+In medicine, Prussian blue is used as an antidote for certain kinds of heavy metal poisoning, e.g., by thallium and radioactive isotopes of caesium. In particular it was used to absorb 137Cs+ from those poisoned in the Goiânia accident. Prussian blue is orally administered. The therapy exploits Prussian blue's ion exchange properties and high affinity for certain "soft" metal cations.
+
+It is on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system. Prussian blue lent its name to prussic acid (hydrogen cyanide), which was derived from it. In Germany, hydrogen cyanide is called _Blausäure__ ("blue acid"), and Joseph Louis Gay-Lussac gave cyanide its name, from the Greek word κυανός (_kyanos_, "blue"), because of the color of Prussian blue.
+
+— [2]
+
+### Famous Artworks
+
+- Entombment of Christ, by Pieter van der Werff, 1709
+- The Starry Night, by SaVincent van Goghssoferrato, 1889
+- The Great Wave off Kanagawa, by Katsushika Hokusai, c. 1829–1833
+
+
