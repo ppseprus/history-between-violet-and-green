@@ -163,3 +163,17 @@ Prussian blue is not the only blue pigment to be discovered by accident. In 2009
 — [1]
 
 
+---
+
+
+- [1] [The 6,000-Year History of Blue Pigments in Art by Sarah Gottesman](https://www.artsy.net/article/artsy-editorial-a-brief-history-of-blue)
+- [2] [Wikipedia](https://en.wikipedia.org)
+- [3] [Early pre-Hispanic use of indigo blue in Peru](http://advances.sciencemag.org/content/2/9/e1501623)
+- [4] [List of inorganic pigments on Wikipedia](https://en.wikipedia.org/wiki/List_of_inorganic_pigments#Blue_pigments)
+- [5] [Egyptian blue: The colour of technology by Philip McCouat](http://www.artinsociety.com/egyptian-blue-the-colour-of-technology.html)
+- [6] [History of Prussian blue](http://www.webexhibits.org/pigments/indiv/history/prussblue.html)
+
+- [7] [Why Isn't the Sky Blue?](http://www.radiolab.org/story/211213-sky-isnt-blu) // _~20 minute podcast on Radiolab_
+
+- [8] [The colors of 94,526 paintings since 1800, charted](https://www.washingtonpost.com/news/wonk/wp/2015/04/06/the-colors-of-94526-paintings-since-1800-charted)
+
