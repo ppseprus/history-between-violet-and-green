@@ -127,3 +127,17 @@ Cobalt blue in impure forms had long been used in Chinese porcelain, but it was 
 — [2]
 
 
+## Cyan-blue (cynotype)
+__1842__
+
+<img src="http://www.colorhexa.com/34526e.png" title="34526e" width="100%" height="40">
+
+Cyanotype is a photographic printing process that produces a cyan-blue print. Engineers used the process well into the 20th century as a simple and low-cost process to produce copies of drawings, referred to as blueprints. The process uses two chemicals: ammonium iron(III) citrate and potassium ferricyanide.
+
+The English scientist and astronomer Sir John Herschel discovered the procedure in 1842. Though the process was developed by Herschel, he considered it as mainly a means of reproducing notes and diagrams, as in blueprints.
+
+Anna Atkins created a series of cyanotype limited-edition books that documented ferns and other plant life from her extensive seaweed collection, placing specimens directly onto coated paper and allowing the action of light to create a silhouette effect. By using this photogram process, Anna Atkins is sometimes considered the first female photographer.
+
+— [2]
+
+
