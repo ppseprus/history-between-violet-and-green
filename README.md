@@ -117,3 +117,13 @@ It is on the World Health Organization's List of Essential Medicines, the most i
 - The Great Wave off Kanagawa, by Katsushika Hokusai, c. 1829–1833
 
 
+## Cobalt blue
+__1802__, __cobalt pigment__, __inorganic__
+
+<img src="http://www.colorhexa.com/0047ab.png" title="0047ab" width="100%" height="40">
+
+Cobalt blue in impure forms had long been used in Chinese porcelain, but it was independently discovered as a pure alumina-based pigment by Louis Jacques Thénard in 1802. Commercial production began in France in 1807. The first recorded use of _cobalt blue_ as a color name in English was in 1777. The leading world manufacturer of cobalt blue in the 19th century was Benjamin Wegner's Norwegian company Blaafarveværket, ("blue colour works" in Dano-Norwegian). Germany was also famous for production, especially the blue colour works (_Blaufarbenwerke_) in the Ore Mountains of Saxony.
+
+— [2]
+
+
