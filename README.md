@@ -80,3 +80,16 @@ Given the high demand, in 1824, France’s Societé d’Encouragement offered a 
 - Blessed Virgin Mary, by Sassoferrato, c. 1654
 - Girl with a Pearl Earring, by Johannes Vermeer, c. 1665
 
+
+## Persian blue
+__Aluminum pigment__, __inorganic__
+
+<img src="http://www.colorhexa.com/0067a5.png" title="0067a5 Medium Persian blue" width="33.33%" height="40"><img src="http://www.colorhexa.com/1c39bb.png" title="1c39bb" width="33.33%" height="40"><img src="http://www.colorhexa.com/32127a.png" title="32127a Persian indigo" width="33.33%" height="40">
+
+The color Persian blue is named from the blue color of some Persian pottery and the color of tiles used in and on mosques and palaces in Iran and in other places in the Middle East. _Persian blue_ is a representation of the color of the mineral lapis lazuli which comes from Persia (i.e. modern Iran) and Afghanistan. (The color azure is also named after the mineral lapis lazuli.)
+
+The first recorded use of Persian blue as a color name in English was in 1669.
+
+— [2]
+
+
