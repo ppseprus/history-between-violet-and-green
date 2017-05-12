@@ -106,7 +106,7 @@ French Rococo painter Jean-Antoine Watteau, Japanese woodblock printmaker Katsus
 
 In medicine, Prussian blue is used as an antidote for certain kinds of heavy metal poisoning, e.g., by thallium and radioactive isotopes of caesium. In particular it was used to absorb 137Cs+ from those poisoned in the Goiânia accident. Prussian blue is orally administered. The therapy exploits Prussian blue's ion exchange properties and high affinity for certain "soft" metal cations.
 
-It is on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system. Prussian blue lent its name to prussic acid (hydrogen cyanide), which was derived from it. In Germany, hydrogen cyanide is called _Blausäure__ ("blue acid"), and Joseph Louis Gay-Lussac gave cyanide its name, from the Greek word κυανός (_kyanos_, "blue"), because of the color of Prussian blue.
+It is on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system. Prussian blue lent its name to prussic acid (hydrogen cyanide), which was derived from it. In Germany, hydrogen cyanide is called _Blausäure_ ("blue acid"), and Joseph Louis Gay-Lussac gave cyanide its name, from the Greek word κυανός (_kyanos_, "blue"), because of the color of Prussian blue.
 
 — [2]
 
