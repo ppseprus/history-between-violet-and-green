@@ -93,6 +93,24 @@ The first recorded use of Persian blue as a color name in English was in 1669.
 — [2]
 
 
+## Smalt Blue
+__15th century__
+
+<img src="http://www.colorhexa.com/003399.png" title="003399" width="100%" height="40">
+
+In Europe the use of smalt as an artist's pigment lasted between the 15th and the 18th century. Although several writers have suggested that smalt could be a European invention discovered around 1540 by Christian Schiirrer, a Bohemian glassmaker, evidence shows that cobalt was used in Egypt since the 27th century BC, and later on in Persia. Furthermore, it seems that before Schtirrer's discovery Venetian glassmakers were already familiar with the properties of cobalt, because some fifteenth-century Venetian glasses have been found coloured with cobalt. Smalt was also used in the Delft ceramic industry as the blue color in Delft tiles. 
+
+It's a ground blue potassium glass containing cobalt used among the 15th and the 18th centuries. In Europe the use of smalt as an artist's pigment was widespread certainly as early as the late sixteenth century. Smalt was popular because of its low cost and its manufacture became a specialty of the Dutch and Flemish in the 17th century.  Smalt is a very good dryer and was used for this purpose and also to give bulk to thick glazes containing lake pigments which are poor dryers.
+
+Renaissance artists used ground cobalt containing glass, smalt, to add vibrancy to their paintings. A portrait of Sir William Butts by Hans Holbein the Younger (1497-1543), is among the earliest paintings in which smalt has been found as a pigment.
+
+— [7]
+
+### Famous Artworks
+
+- Sir William Butts, by Hans Holbein the Younger, 1540-1543
+
+
 ## Prussian blue
 __1724__, __iron pigment__, __inorganic__
 
