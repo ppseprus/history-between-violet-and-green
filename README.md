@@ -3,7 +3,7 @@
 ## Indigo
 __approx. 4000 B.C.__
 
-<img src="http://www.colorhexa.com/6f00ff.png" title="6f00ff Electric indigo" width="33.33%" height="40"><img src="http://www.colorhexa.com/8a2be2.png" title="8a2be2 Blue-violet" width="33.33%" height="40"><img src="http://www.colorhexa.com/4b0082.png" title="4b0082" width="33.33%" height="40">
+<img src="http://www.colorhexa.com/6f00ff.png" title="#6f00ff Electric indigo" width="33.33%" height="40"><img src="http://www.colorhexa.com/8a2be2.png" title="#8a2be2 Blue-violet" width="33.33%" height="40"><img src="http://www.colorhexa.com/4b0082.png" title="#4b0082" width="33.33%" height="40">
 
 Archaeological research has identified the use of cultivated cotton (_Gossypium barbadense_) in the ancient Andes dating back to at least 7800 years ago. Because of unusual circumstances of preservation, 6000-year-old cotton fabrics from the Preceramic site of Huaca Prieta on the north coast of Peru retained traces of a blue pigment that was analyzed and positively identified as an indigoid dye (indigotin), making it the earliest known use of indigo in the world, derived most likely from _Indigofera_ spp. native to South America. This predates by ~1500 years the earliest reported use of indigo in the Old World, from Fifth Dynasty Egypt [ca. 4400 BP (before present)]. Indigo is one of the most valued and most globally widespread dyes of antiquity and of the present era (it being the blue of blue jeans).
 
@@ -33,7 +33,7 @@ Synthetic indigo, developed in 1880, largely replaced the natural crop by 1913; 
 ## Egyptian blue (irtyu)
 __approx. 2,200 B.C.__, __copper pigment__, __inorganic__
 
-<img src="http://www.colorhexa.com/4197ca.png" title="4197ca" width="33.33%" height="40"><img src="http://www.colorhexa.com/308bc7.png" title="308bc7" width="33.33%" height="40"><img src="http://www.colorhexa.com/1034a6.png" title="1034a6" width="33.33%" height="40">
+<img src="http://www.colorhexa.com/4197ca.png" title="#4197ca" width="33.33%" height="40"><img src="http://www.colorhexa.com/308bc7.png" title="#308bc7" width="33.33%" height="40"><img src="http://www.colorhexa.com/1034a6.png" title="#1034a6" width="33.33%" height="40">
 
 Egyptian blue—the first color to be synthetically produced—was invented in Ancient Egypt around 2,200 B.C., around the same time the Great Pyramids were built. To create the hue, Egyptians combined limestone and sand with a copper-containing mineral (such as azurite or malachite) and heated the solution to between 1470 and 1650 degrees fahrenheit. The end result was an opaque blue glass, which could be crushed up, combined with egg whites, glues, or gums, and made into a long-lasting paint or ceramic glaze. The process was easy to get wrong, and any mistake would result in a “glassy, green mess,” explains Victoria Finlay in _The Brilliant History of Color in Art_ (2014). While Egyptian blue remained popular throughout the Roman Empire, its complex method of production was forgotten as new blues came to market.
 
@@ -45,7 +45,7 @@ In 2006, nearly two millennia later, conservation scientist Giovanni Verri made 
 ## Han blue
 __approx. 1045–771 B.C.__, __copper pigment__, __inorganic__
 
-<img src="http://www.colorhexa.com/446ccf.png" title="446ccf" width="100%" height="40">
+<img src="http://www.colorhexa.com/446ccf.png" title="#446ccf" width="100%" height="40">
 
 Han purple and Han blue (also called Chinese purple and Chinese blue) are synthetic barium copper silicate pigments developed in China and used in ancient and imperial China from the Western Zhou period (1045–771 BC) until the end of the Han dynasty (circa 220 AD).
 
@@ -57,7 +57,7 @@ In 1993, it was discovered to occur naturally as the rare mineral effenbergerite
 ## Ultramarine (~ "True Blue", literally "beyond the sea")
 __6th century__, __aluminum pigment__, __inorganic__
 
-<img src="http://www.colorhexa.com/5681bf.png" title="5681bf natural" width="50%" height="40"><img src="http://www.colorhexa.com/3f00ff.png" title="3f00ff synthetic" width="50%" height="40">
+<img src="http://www.colorhexa.com/5681bf.png" title="#5681bf Natural Ultramarine" width="50%" height="40"><img src="http://www.colorhexa.com/3f00ff.png" title="#3f00ff Synthetic Ultramarine" width="50%" height="40">
 
 The name derives from Middle Latin _ultramarinus_, literally "beyond the sea" because it was imported from Asia by sea. Current terminology for ultramarine includes natural ultramarine (English), _outremer lapis_ (French), _Ultramarin echt_ (German), _oltremare genuino_ (Italian), and _ultramarino verdadero_ (Spanish). The first recorded use of ultramarine as a color name in English was in 1598.
 
@@ -84,7 +84,7 @@ Given the high demand, in 1824, France’s Societé d’Encouragement offered a 
 ## Persian blue
 __Aluminum pigment__, __inorganic__
 
-<img src="http://www.colorhexa.com/0067a5.png" title="0067a5 Medium Persian blue" width="33.33%" height="40"><img src="http://www.colorhexa.com/1c39bb.png" title="1c39bb" width="33.33%" height="40"><img src="http://www.colorhexa.com/32127a.png" title="32127a Persian indigo" width="33.33%" height="40">
+<img src="http://www.colorhexa.com/0067a5.png" title="#0067a5 Medium Persian blue" width="33.33%" height="40"><img src="http://www.colorhexa.com/1c39bb.png" title="#1c39bb" width="33.33%" height="40"><img src="http://www.colorhexa.com/32127a.png" title="#32127a Persian indigo" width="33.33%" height="40">
 
 The color Persian blue is named from the blue color of some Persian pottery and the color of tiles used in and on mosques and palaces in Iran and in other places in the Middle East. _Persian blue_ is a representation of the color of the mineral lapis lazuli which comes from Persia (i.e. modern Iran) and Afghanistan. (The color azure is also named after the mineral lapis lazuli.)
 
@@ -96,7 +96,7 @@ The first recorded use of Persian blue as a color name in English was in 1669.
 ## Smalt Blue
 __15th century__
 
-<img src="http://www.colorhexa.com/003399.png" title="003399" width="100%" height="40">
+<img src="http://www.colorhexa.com/003399.png" title="#003399" width="100%" height="40">
 
 In Europe the use of smalt as an artist's pigment lasted between the 15th and the 18th century. Although several writers have suggested that smalt could be a European invention discovered around 1540 by Christian Schiirrer, a Bohemian glassmaker, evidence shows that cobalt was used in Egypt since the 27th century BC, and later on in Persia. Furthermore, it seems that before Schtirrer's discovery Venetian glassmakers were already familiar with the properties of cobalt, because some fifteenth-century Venetian glasses have been found coloured with cobalt. Smalt was also used in the Delft ceramic industry as the blue color in Delft tiles. 
 
@@ -114,7 +114,7 @@ Renaissance artists used ground cobalt containing glass, smalt, to add vibrancy 
 ## Prussian blue
 __1724__, __iron pigment__, __inorganic__
 
-<img src="http://www.colorhexa.com/003153.png" title="003153" width="100%" height="40">
+<img src="http://www.colorhexa.com/003153.png" title="#003153" width="100%" height="40">
 
 One year before Newton published his first report on the seven colors of the rainbow in _Opticks_ (1704), a new blue was invented in Berlin, Germany. The dye-maker Johann Jacob Diesbach was working on a cochineal red pigment when he disregarded the fact that one of his materials, potash, had come in contact with animal blood. He figured that red mixed with red would simply create more red. Surprisingly, this was not the case, and his red dye emerged as a potent blue. The animal blood had spurred an unlikely chemical reaction, which created the compound iron ferrocyanide, now known in German as the color _Berliner Blau_ or, in English, as Prussian blue.
 
@@ -138,7 +138,7 @@ It is on the World Health Organization's List of Essential Medicines, the most i
 ## Cerulean blue
 __1789__
 
-<img src="http://www.colorhexa.com/007ba7.png" title="007ba7" width="100%" height="40">
+<img src="http://www.colorhexa.com/007ba7.png" title="#007ba7" width="100%" height="40">
 
 Cerulean (/səˈruːliən/), also spelled caerulean, is a colour term that may be applied to certain colours with the hue ranging roughly between blue and cyan, overlapping with both. It also largely overlaps with azure and sky blue, although cerulean is dimmer.
 
@@ -152,7 +152,7 @@ In classical times, cerulean was used to describe blue pigments, particularly mi
 ## Cobalt blue
 __1802__, __cobalt pigment__, __inorganic__
 
-<img src="http://www.colorhexa.com/0047ab.png" title="0047ab" width="100%" height="40">
+<img src="http://www.colorhexa.com/0047ab.png" title="#0047ab" width="100%" height="40">
 
 Cobalt blue in impure forms had long been used in Chinese porcelain, but it was independently discovered as a pure alumina-based pigment by Louis Jacques Thénard in 1802. Commercial production began in France in 1807. The first recorded use of _cobalt blue_ as a color name in English was in 1777. The leading world manufacturer of cobalt blue in the 19th century was Benjamin Wegner's Norwegian company Blaafarveværket, ("blue colour works" in Dano-Norwegian). Germany was also famous for production, especially the blue colour works (_Blaufarbenwerke_) in the Ore Mountains of Saxony.
 
@@ -162,7 +162,7 @@ Cobalt blue in impure forms had long been used in Chinese porcelain, but it was 
 ## Cyan-blue (cynotype)
 __1842__
 
-<img src="http://www.colorhexa.com/34526e.png" title="34526e" width="100%" height="40">
+<img src="http://www.colorhexa.com/34526e.png" title="#34526e" width="100%" height="40">
 
 Cyanotype is a photographic printing process that produces a cyan-blue print. Engineers used the process well into the 20th century as a simple and low-cost process to produce copies of drawings, referred to as blueprints. The process uses two chemicals: ammonium iron(III) citrate and potassium ferricyanide.
 
@@ -176,7 +176,7 @@ Anna Atkins created a series of cyanotype limited-edition books that documented 
 ## Phthalocyanine Blue BN
 __mid. 1930s__
 
-<img src="http://www.colorhexa.com/000f89.png" title="000f89" width="100%" height="40">
+<img src="http://www.colorhexa.com/000f89.png" title="#000f89" width="100%" height="40">
 
 Phthalocyanine Blue BN, also called Monastral blue, phthalo blue, thalo blue is a bright, crystalline, synthetic blue pigment from the group of phthalocyanine dyes.
 
@@ -188,7 +188,7 @@ It was first developed as a pigment in the mid-1930s. Its brilliant blue is freq
 ## International Klein Blue
 __1960__
 
-<img src="http://www.colorhexa.com/002ea7.png" title="002ea7" width="100%" height="40">
+<img src="http://www.colorhexa.com/002ea7.png" title="#002ea7" width="100%" height="40">
 
 In the summer of 1947, French artist Yves Klein was just 19 years old, sitting on the beach with his friends Claude Pascal (who later became a poet) and Armand Fernandez (who later became an artist). As the story goes, the three of them began to brainstorm how they would divide up the world: Pascal would take the air, Fernandez would have the land, and Klein wanted the sky. Klein’s pursuit of the sky’s expansiveness would come to define his artistic career, and, in 1957, he began to work almost exclusively with the color blue. “Blue has no dimensions. It is beyond dimensions,” he once said. The artist began by spraypainting entire canvases, everyday objects, and casts of ancient sculptures with French Ultramarine, which had been invented about a century before. Working with a paint dealer in Paris, Klein created a matte version of ultramarine and patented his new method of pigment production under the name International Klein Blue, or IKB, in 1960.
 
@@ -200,7 +200,7 @@ While Klein is perhaps the most famous painter to riff on ultramarine, one of hi
 ## YInMn
 __2009__, __manganese pigment__, __inorganic__
 
-<img src="http://www.colorhexa.com/2e5090.png" title="2e5090" width="100%" height="40">
+<img src="http://www.colorhexa.com/2e5090.png" title="#2e5090" width="100%" height="40">
 
 Prussian blue is not the only blue pigment to be discovered by accident. In 2009, the chemist Mas Subramanian and his students at Oregon State University were investigating new materials that could be used for manufacturing electronics. A graduate student noticed that one of their samples turned a bright blue color when heated, to which Subramanian responded, “Luck favors the alert mind,” a quote from Louis Pasteur. They named the color YInMn blue, after its chemical makeup of yttrium, indium, and manganese, and they released the pigment for commercial use in June 2016. Durable, safe, and easy to produce, the color also has a cooling property, so it may be used in environmentally friendly roof construction in the future. Of course, Subramanian sent samples of the pigment to artists, too.
 
