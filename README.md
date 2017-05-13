@@ -135,6 +135,20 @@ It is on the World Health Organization's List of Essential Medicines, the most i
 - The Great Wave off Kanagawa, by Katsushika Hokusai, c. 1829–1833
 
 
+## Cerulean blue
+__1789__
+
+<img src="http://www.colorhexa.com/007ba7.png" title="007ba7" width="100%" height="40">
+
+Cerulean (/səˈruːliən/), also spelled caerulean, is a colour term that may be applied to certain colours with the hue ranging roughly between blue and cyan, overlapping with both. It also largely overlaps with azure and sky blue, although cerulean is dimmer.
+
+Cerulean blue was discovered in 1789 by Albrecht Höpfner. Subsequently there was a limited German production under the name of _Cölinblau_. It was in 1860 first marketed in the United Kingdom by colourman George Rowney, as "coeruleum". Other nineteenth century English pigment names included "ceruleum blue" and "corruleum blue". The primary chemical constituent of the pigment is cobalt(II) stannate. The precise hue of the pigment is dependent on a variable silicate component. The pigment is very expensive.
+
+In classical times, cerulean was used to describe blue pigments, particularly mixtures of copper and cobaltous oxides, like azurite and smalt. These early attempts to create sky blue colours were often less than satisfactory due to a limited saturation and the tendency to discolour in reaction with other pigments. When the pigment cerulean blue was discovered, it became a useful addition to Prussian blue, cobalt blue and synthetic ultramarine which already had superseded the prior pigments. See also Tekhelet.
+
+— [2]
+
+
 ## Cobalt blue
 __1802__, __cobalt pigment__, __inorganic__
 
