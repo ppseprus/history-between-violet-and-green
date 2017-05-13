@@ -173,6 +173,18 @@ Anna Atkins created a series of cyanotype limited-edition books that documented 
 — [2]
 
 
+## Phthalocyanine Blue BN
+__mid. 1930s__
+
+<img src="http://www.colorhexa.com/000f89.png" title="000f89" width="100%" height="40">
+
+Phthalocyanine Blue BN, also called Monastral blue, phthalo blue, thalo blue is a bright, crystalline, synthetic blue pigment from the group of phthalocyanine dyes.
+
+It was first developed as a pigment in the mid-1930s. Its brilliant blue is frequently used in paints and dyes. It is highly valued for its superior properties such as light fastness, tinting strength, covering power and resistance to the effects of alkalies and acids. It has the appearance of a blue powder, insoluble in water and most solvents. The anecdotal history of the compound is that a chemist at the ICI phthalimide plant was troubled by blue contamination of the product. This was traced to a by-product formed when the phthalimide reacted with trace amounts of iron from the metal reactor. The chemist took samples of this blue and using sulfuric acid as a solvent, managed to produce a workable pigment. This was converted into the copper centered blue and sold under the trade name Monastral. Difficulty was experienced in forming stable dispersions with the first alpha forms, especially in mixtures with rutile Titanium, where the blue pigment tended to flocculate. The beta form was more stable, as was the improved stabilized alpha form. Today, there are even more isomeric forms available.
+
+— [2]
+
+
 ## International Klein Blue
 __1960__
 
