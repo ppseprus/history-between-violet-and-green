@@ -217,6 +217,6 @@ Prussian blue is not the only blue pigment to be discovered by accident. In 2009
 - [5] [Egyptian blue: The colour of technology by Philip McCouat](http://www.artinsociety.com/egyptian-blue-the-colour-of-technology.html)
 - [6] [History of Prussian blue](http://www.webexhibits.org/pigments/indiv/history/prussblue.html)
 - [7] [Pigments through the Ages](http://www.webexhibits.org/pigments/intro/pigments.html)
-- [8] [Why Isn't the Sky Blue?](http://www.radiolab.org/story/211213-sky-isnt-blu) // _~20 minute podcast on Radiolab_
-- [9] [The colors of 94,526 paintings since 1800, charted](https://www.washingtonpost.com/news/wonk/wp/2015/04/06/the-colors-of-94526-paintings-since-1800-charted)
+- [Why Isn't the Sky Blue?](http://www.radiolab.org/story/211213-sky-isnt-blu) // _~20 minute podcast on Radiolab_
+- [The colors of 94,526 paintings since 1800, charted](https://www.washingtonpost.com/news/wonk/wp/2015/04/06/the-colors-of-94526-paintings-since-1800-charted)
 - [Blue is the Strangest Colour](https://www.bbvaopenmind.com/en/blue-is-the-strangest-colour/)
